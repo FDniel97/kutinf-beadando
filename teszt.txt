@@ -1,0 +1,3 @@
+5
+7 ingatlan ingatlan service 2000 lucky 1500 ingatlan ingatlan service 3000 
+3 first greedy second tactical third careful
