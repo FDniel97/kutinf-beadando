@@ -1,9 +1,0 @@
-C:/Users/Daniel/Downloads/kutinf beadando/build/CMakeFiles/edit_cache.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/CXX/CMakeFiles/rebuild_cache.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/CXX/CMakeFiles/data.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/CXX/CMakeFiles/Application.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/CXX/CMakeFiles/edit_cache.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/plot/CMakeFiles/plottolas.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/plot/CMakeFiles/edit_cache.dir
-C:/Users/Daniel/Downloads/kutinf beadando/build/plot/CMakeFiles/rebuild_cache.dir
